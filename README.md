@@ -6,4 +6,5 @@ PhotoSavior iOS App Repostory
 * Learn proper unit testing practices
 * TDD
 * Clean decoupled architecture
+* Localization support
 * Have fun
